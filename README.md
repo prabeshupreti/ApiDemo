@@ -1,7 +1,3 @@
-Certainly! Here's a simple and friendly `README.md` file for a GitHub repository targeted at someone transitioning from traditional ASP.NET MVC to ASP.NET Web API:
-
----
-
 # 🚀 ASP.NET Core Web API – Beginner Friendly Guide for MVC Developers
 
 Welcome! 👋
@@ -128,7 +124,3 @@ If you're also learning and want to add something to help others — feel free t
 
 This repo is created by someone who recently moved from MVC to Web API — so everything is beginner-friendly.
 Feel free to use it, copy it, break it, and learn from it!
-
----
-
-Would you like me to customize this with your project name, GitHub URL, or specific controller details?
